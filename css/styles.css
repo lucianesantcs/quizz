@@ -195,7 +195,8 @@ footer {
 
 /* RESPONSIVO */
 @media (max-width: 450px) {
-  #quizz-container {
+  #quizz-container,
+  #score-container {
     border: none;
     width: 100%;
     box-shadow: none;
